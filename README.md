@@ -1,5 +1,3 @@
-# Digital-clock-C-program-
-The program to run digital clock
 #include <stdio.h>
 #include <time.h>
 #include <unistd.h>
